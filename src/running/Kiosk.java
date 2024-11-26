@@ -1,3 +1,10 @@
+package running;
+
+import resource.MenuItem;
+import resource.UserType;
+import running.Cart;
+import running.Menu;
+
 import java.util.*;
 
 public class Kiosk {

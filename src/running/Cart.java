@@ -1,3 +1,9 @@
+package running;
+
+import resource.CartItem;
+import resource.MenuItem;
+import resource.UserType;
+
 import java.util.*;
 
 public class Cart {

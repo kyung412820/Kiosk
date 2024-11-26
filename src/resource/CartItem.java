@@ -1,3 +1,5 @@
+package resource;
+
 public class CartItem {
     private MenuItem menuItem;
 

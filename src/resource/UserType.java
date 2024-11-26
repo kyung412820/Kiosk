@@ -1,3 +1,5 @@
+package resource;
+
 public enum UserType {
     VETERAN(0.1),  // 국가유공자: 10%
     SOLDIER(0.05), // 군인: 5%
